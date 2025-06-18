@@ -1,6 +1,6 @@
-
-<img src="https://raw.githubusercontent.com/hurih2003/hurih2003/main/coding.jpg" width="400"/>
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/hurih2003/hurih2003/main/coding.jpg" width="300"/>
+<div/>
 
 ## 💻 Front-End Web Developer | Passionate about building responsive and user-friendly web interfaces.
 - ✨ Skilled in HTML and CSS
