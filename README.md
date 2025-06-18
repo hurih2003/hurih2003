@@ -2,6 +2,11 @@
 <img src="https://raw.githubusercontent.com/hurih2003/hurih2003/main/coding.jpg" width="300"/>
 </div>
 
+## 🔗 Profile Card
+
+🎨 Check out my [Profile Card](https://https://hurih2003.github.io/profile-card/)
+
+
 ## 💻 Front-End Web Developer | Passionate about building responsive and user-friendly web interfaces.
 - ✨ Skilled in HTML and CSS
 - 🎯 Always learning, always improving.
