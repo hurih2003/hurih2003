@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/hurih2003/hurih2003/main/coding.png" width="400"/>
+<img src="https://raw.githubusercontent.com/hurih2003/hurih2003/main/coding.jpg" width="400"/>
 
 
 ## 💻 Front-End Web Developer | Passionate about building responsive and user-friendly web interfaces.
