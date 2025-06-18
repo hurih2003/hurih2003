@@ -4,7 +4,7 @@
 
 ## 🔗 Profile Card
 
-🎨 Check out my [Profile Card](https://https://hurih2003.github.io/profile-card/)
+🌟 Check out my profile card [here](https://hurih2003.github.io/profile-card/).
 
 
 ## 💻 Front-End Web Developer | Passionate about building responsive and user-friendly web interfaces.
