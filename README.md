@@ -2,10 +2,10 @@
 <img src="https://raw.githubusercontent.com/hurih2003/hurih2003/main/coding.png" width="400"/>
 
 
-##💻 Front-End Web Developer | Passionate about building responsive and user-friendly web interfaces.
-✨ Skilled in HTML and CSS
-🎯 Always learning, always improving.
-🚀 Let’s build something awesome together!
+## 💻 Front-End Web Developer | Passionate about building responsive and user-friendly web interfaces.
+- ✨ Skilled in HTML and CSS
+- 🎯 Always learning, always improving.
+- 🚀 Let’s build something awesome together!
 
 
 <h1 align="center">Hey there 👋</h1>
