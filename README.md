@@ -14,8 +14,9 @@
 </p>
 
 ## 📫 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hurih2003)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:your-HURIH2003@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+97099894266)
+
 
 ## 👀 Visitors:
 ![visitors](https://komarev.com/ghpvc/?username=hurih2003)
