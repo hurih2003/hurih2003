@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋</h1>
 
-<!--
-**hurih2003/hurih2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+- ⚡ I'm Hurih from Palestine  
+- 💻 I'm a Front-End Web Developer  
+- 👩‍💻 Currently studying Computer  Engineering at IUG
+- 🌱 Always learning and improving  
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hurih2003)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:your-HURIH2003@gmail.com)
+
+## 👀 Visitors:
+![visitors](https://komarev.com/ghpvc/?username=hurih2003)
