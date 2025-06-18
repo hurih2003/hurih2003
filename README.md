@@ -18,5 +18,4 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+97099894266)
 
 
-## 👀 Visitors:
-![visitors](https://komarev.com/ghpvc/?username=hurih2003)
+
