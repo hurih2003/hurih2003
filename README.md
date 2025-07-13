@@ -4,6 +4,7 @@
 
 ## 🔗 Profile Card
 
+🌟 Check out my website [here](https://hurih2003.github.io/mywebsite/)
 🌟 Check out my profile card [here](https://hurih2003.github.io/profile-card/).
 
 
